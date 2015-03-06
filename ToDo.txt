@@ -17,3 +17,17 @@
 16. Show extensions
 17. make notepad default for all shit
 18. dowload notepad ++
+19. disable dcom
+20. disable upnp
+21. set explorer sort to default as latest desc
+22. disable windows messenger
+23. install procces explorer
+24. install windirstat https://windirstat.info/
+25. install git
+26. install fiddler
+27. upgrade powershell to latest
+28. set notepad to default open of all unknown filetypes
+29. install 7zip
+30. install notepad++
+31. install latest https /tls 
+32. install all latest updates
