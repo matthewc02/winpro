@@ -17,3 +17,5 @@
 16. Show extensions
 17. make notepad default for all shit
 18. dowload notepad ++
+19. set all explorer defaults to show latest files on top
+20. set default folder to desktop
